@@ -1,0 +1,7 @@
+C:\Users\Stagiaire\OneDrive - CENTRE DE READAPTATION\Documents\tpGroca\Procedural\KmEnMiles\KmEnMiles\obj\Debug\KmEnMiles.csprojAssemblyReference.cache
+C:\Users\Stagiaire\OneDrive - CENTRE DE READAPTATION\Documents\tpGroca\Procedural\KmEnMiles\KmEnMiles\obj\Debug\KmEnMiles.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\OneDrive - CENTRE DE READAPTATION\Documents\tpGroca\Procedural\KmEnMiles\KmEnMiles\bin\Debug\KmEnMiles.exe.config
+C:\Users\Stagiaire\OneDrive - CENTRE DE READAPTATION\Documents\tpGroca\Procedural\KmEnMiles\KmEnMiles\bin\Debug\KmEnMiles.exe
+C:\Users\Stagiaire\OneDrive - CENTRE DE READAPTATION\Documents\tpGroca\Procedural\KmEnMiles\KmEnMiles\bin\Debug\KmEnMiles.pdb
+C:\Users\Stagiaire\OneDrive - CENTRE DE READAPTATION\Documents\tpGroca\Procedural\KmEnMiles\KmEnMiles\obj\Debug\KmEnMiles.exe
+C:\Users\Stagiaire\OneDrive - CENTRE DE READAPTATION\Documents\tpGroca\Procedural\KmEnMiles\KmEnMiles\obj\Debug\KmEnMiles.pdb
