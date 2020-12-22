@@ -1,0 +1,9 @@
+C:\Users\Stagiaire\OneDrive - CENTRE DE READAPTATION\Projet ABC Dev 1\Tulipe\Tulipe\bin\Debug\Tulipe.exe.config
+C:\Users\Stagiaire\OneDrive - CENTRE DE READAPTATION\Projet ABC Dev 1\Tulipe\Tulipe\bin\Debug\Tulipe.exe
+C:\Users\Stagiaire\OneDrive - CENTRE DE READAPTATION\Projet ABC Dev 1\Tulipe\Tulipe\bin\Debug\Tulipe.pdb
+C:\Users\Stagiaire\OneDrive - CENTRE DE READAPTATION\Projet ABC Dev 1\Tulipe\Tulipe\obj\Debug\Tulipe.csprojAssemblyReference.cache
+C:\Users\Stagiaire\OneDrive - CENTRE DE READAPTATION\Projet ABC Dev 1\Tulipe\Tulipe\obj\Debug\Tulipe.Properties.Resources.resources
+C:\Users\Stagiaire\OneDrive - CENTRE DE READAPTATION\Projet ABC Dev 1\Tulipe\Tulipe\obj\Debug\Tulipe.csproj.GenerateResource.cache
+C:\Users\Stagiaire\OneDrive - CENTRE DE READAPTATION\Projet ABC Dev 1\Tulipe\Tulipe\obj\Debug\Tulipe.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\OneDrive - CENTRE DE READAPTATION\Projet ABC Dev 1\Tulipe\Tulipe\obj\Debug\Tulipe.exe
+C:\Users\Stagiaire\OneDrive - CENTRE DE READAPTATION\Projet ABC Dev 1\Tulipe\Tulipe\obj\Debug\Tulipe.pdb
