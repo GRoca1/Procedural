@@ -1,0 +1,7 @@
+C:\Users\Stagiaire\OneDrive - CENTRE DE READAPTATION\Documents\tpGroca\Procedural\diviseur\diviseur\bin\Debug\diviseur.exe.config
+C:\Users\Stagiaire\OneDrive - CENTRE DE READAPTATION\Documents\tpGroca\Procedural\diviseur\diviseur\bin\Debug\diviseur.exe
+C:\Users\Stagiaire\OneDrive - CENTRE DE READAPTATION\Documents\tpGroca\Procedural\diviseur\diviseur\bin\Debug\diviseur.pdb
+C:\Users\Stagiaire\OneDrive - CENTRE DE READAPTATION\Documents\tpGroca\Procedural\diviseur\diviseur\obj\Debug\diviseur.csprojAssemblyReference.cache
+C:\Users\Stagiaire\OneDrive - CENTRE DE READAPTATION\Documents\tpGroca\Procedural\diviseur\diviseur\obj\Debug\diviseur.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\OneDrive - CENTRE DE READAPTATION\Documents\tpGroca\Procedural\diviseur\diviseur\obj\Debug\diviseur.exe
+C:\Users\Stagiaire\OneDrive - CENTRE DE READAPTATION\Documents\tpGroca\Procedural\diviseur\diviseur\obj\Debug\diviseur.pdb
