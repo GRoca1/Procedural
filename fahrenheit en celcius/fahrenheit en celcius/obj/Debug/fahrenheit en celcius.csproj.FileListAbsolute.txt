@@ -1,0 +1,7 @@
+C:\Users\Stagiaire\OneDrive - CENTRE DE READAPTATION\Documents\tpGroca\Procedural\fahrenheit en celcius\fahrenheit en celcius\bin\Debug\fahrenheit en celcius.exe.config
+C:\Users\Stagiaire\OneDrive - CENTRE DE READAPTATION\Documents\tpGroca\Procedural\fahrenheit en celcius\fahrenheit en celcius\bin\Debug\fahrenheit en celcius.exe
+C:\Users\Stagiaire\OneDrive - CENTRE DE READAPTATION\Documents\tpGroca\Procedural\fahrenheit en celcius\fahrenheit en celcius\bin\Debug\fahrenheit en celcius.pdb
+C:\Users\Stagiaire\OneDrive - CENTRE DE READAPTATION\Documents\tpGroca\Procedural\fahrenheit en celcius\fahrenheit en celcius\obj\Debug\fahrenheit en celcius.csprojAssemblyReference.cache
+C:\Users\Stagiaire\OneDrive - CENTRE DE READAPTATION\Documents\tpGroca\Procedural\fahrenheit en celcius\fahrenheit en celcius\obj\Debug\fahrenheit en celcius.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\OneDrive - CENTRE DE READAPTATION\Documents\tpGroca\Procedural\fahrenheit en celcius\fahrenheit en celcius\obj\Debug\fahrenheit en celcius.exe
+C:\Users\Stagiaire\OneDrive - CENTRE DE READAPTATION\Documents\tpGroca\Procedural\fahrenheit en celcius\fahrenheit en celcius\obj\Debug\fahrenheit en celcius.pdb
